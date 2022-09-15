@@ -1,0 +1,14 @@
+:root{
+    --base-color: #400D51;
+    --font-base-color: #31E1F7;
+}
+
+html{
+    font-size: 18px;
+    
+}
+
+body{
+    background-color: var(--base-color);
+    color: var(--font-base-color);
+}
